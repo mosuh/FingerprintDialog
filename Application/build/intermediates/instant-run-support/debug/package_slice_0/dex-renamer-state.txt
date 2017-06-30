@@ -1,0 +1,4 @@
+#Thu Jun 22 10:54:19 IST 2017
+base.0=/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

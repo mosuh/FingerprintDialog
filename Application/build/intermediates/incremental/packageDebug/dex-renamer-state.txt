@@ -1,0 +1,7 @@
+#Thu Jun 22 14:54:40 IST 2017
+base.0=/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d9b36311de3f85b05a9fb7e75fc254f9a362ef6a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_26ebc2981410a202e6d78b63bc761a1ceb94d0c8/classes.dex
+base.1=/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_26ebc2981410a202e6d78b63bc761a1ceb94d0c8
+file.0=/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d9b36311de3f85b05a9fb7e75fc254f9a362ef6a/classes.dex

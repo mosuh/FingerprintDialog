@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/apple/.android/build-cache/8feca312ca707090fe3507da8ecf3bc67d1ad629/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/apple/.android/build-cache/8feca312ca707090fe3507da8ecf3bc67d1ad629/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/apple/.android/build-cache/8feca312ca707090fe3507da8ecf3bc67d1ad629/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]

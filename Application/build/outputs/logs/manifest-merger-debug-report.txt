@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:16:1-49:12
+	package
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:18:5-52
+	android:versionName
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:17:5-51
+	android:versionCode
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:22:22-71
+application
+ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:24:5-47:19
+MERGED from [com.android.support:support-v13:25.3.1] /Users/apple/.android/build-cache/8ce27d749edb56a0647ee214faf3f4b98c2ef268/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/apple/.android/build-cache/84bbdcb39df786e9608333929b1e513f36e3b1e3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.android/build-cache/a5a62e6ec44edc208a59fb7668014d78dd859786/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/apple/.android/build-cache/8feca312ca707090fe3507da8ecf3bc67d1ad629/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/afc318a1df5e7b503579ac0e721378547d14f645/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.android/build-cache/66ba0dce9776925ec28cbadc2c2d7f2ccc0a4620/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.android/build-cache/4312fd4e3c45e51b0d566cc4157cf012190d7b74/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.android/build-cache/db8d4ce29f6067d179b5db44e449563b65afab74/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.android/build-cache/45494616eebf6c8db7aa1d023a753f93284f0437/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.android/build-cache/9cc67ac5ea03007436c28340307a21ec263df5b4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.android/build-cache/c2f03b339587a601303e0617f89f58bba5285463/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.android/build-cache/d11a237e527c98d98a0e7b7d2494026fa9dd0fb0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.android/build-cache/b4581801ad49b94896b29579932ddca658102841/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:27:9-31
+	android:supportsRtl
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:28:9-35
+	tools:ignore
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:30:9-48
+	android:allowBackup
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:26:9-43
+	android:theme
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:29:9-53
+activity#com.example.android.fingerprintdialog.MainActivity
+ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:33:13-53
+	android:name
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:32:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:37:27-74
+activity#com.example.android.fingerprintdialog.SettingsActivity
+ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:40:9-42:55
+	android:label
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:42:13-52
+	android:name
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:41:13-45
+activity#com.example.android.fingerprintdialog.newactivity
+ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:43:9-46:81
+	android:label
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:45:13-63
+	android:theme
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:46:13-69
+	android:name
+		ADDED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml:44:13-40
+uses-sdk
+INJECTED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] /Users/apple/.android/build-cache/8ce27d749edb56a0647ee214faf3f4b98c2ef268/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/apple/.android/build-cache/84bbdcb39df786e9608333929b1e513f36e3b1e3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.android/build-cache/a5a62e6ec44edc208a59fb7668014d78dd859786/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:24.2.1] /Users/apple/.android/build-cache/8feca312ca707090fe3507da8ecf3bc67d1ad629/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/afc318a1df5e7b503579ac0e721378547d14f645/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.android/build-cache/66ba0dce9776925ec28cbadc2c2d7f2ccc0a4620/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.android/build-cache/4312fd4e3c45e51b0d566cc4157cf012190d7b74/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.android/build-cache/db8d4ce29f6067d179b5db44e449563b65afab74/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.android/build-cache/45494616eebf6c8db7aa1d023a753f93284f0437/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.android/build-cache/9cc67ac5ea03007436c28340307a21ec263df5b4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.android/build-cache/c2f03b339587a601303e0617f89f58bba5285463/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/apple/.android/build-cache/cf9f5c77584e212e0b206d2e741ea74c0bd1e7ab/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.android/build-cache/d11a237e527c98d98a0e7b7d2494026fa9dd0fb0/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.android/build-cache/b4581801ad49b94896b29579932ddca658102841/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/apple/.android/build-cache/8ce27d749edb56a0647ee214faf3f4b98c2ef268/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/FingerprintDialog/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /Users/apple/.android/build-cache/8ce27d749edb56a0647ee214faf3f4b98c2ef268/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/apple/.android/build-cache/84bbdcb39df786e9608333929b1e513f36e3b1e3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/afc318a1df5e7b503579ac0e721378547d14f645/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.android/build-cache/66ba0dce9776925ec28cbadc2c2d7f2ccc0a4620/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.android/build-cache/4312fd4e3c45e51b0d566cc4157cf012190d7b74/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.android/build-cache/db8d4ce29f6067d179b5db44e449563b65afab74/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.android/build-cache/45494616eebf6c8db7aa1d023a753f93284f0437/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.android/build-cache/9cc67ac5ea03007436c28340307a21ec263df5b4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.android/build-cache/c2f03b339587a601303e0617f89f58bba5285463/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.android/build-cache/d11a237e527c98d98a0e7b7d2494026fa9dd0fb0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.android/build-cache/b4581801ad49b94896b29579932ddca658102841/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/apple/.android/build-cache/8ce27d749edb56a0647ee214faf3f4b98c2ef268/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/apple/.android/build-cache/8ce27d749edb56a0647ee214faf3f4b98c2ef268/output/AndroidManifest.xml:26:9-47

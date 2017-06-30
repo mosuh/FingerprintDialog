@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/db8d4ce29f6067d179b5db44e449563b65afab74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_6bb8d9b0a5314c6445ec7f67c9ff3db677692e15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/b4581801ad49b94896b29579932ddca658102841/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_adac8c08d99bc45fbe6065d066aa0eb0bef6ee26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_7f4cc0a555adbbf32912cf702bb1383bf12256e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/afc318a1df5e7b503579ac0e721378547d14f645/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_e5487fae84df0dcae8190e51cd0f1e37f6103a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/84bbdcb39df786e9608333929b1e513f36e3b1e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_55200cd0f2f576f4cd6927377d94f697d444c1ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_26ebc2981410a202e6d78b63bc761a1ceb94d0c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/c2f03b339587a601303e0617f89f58bba5285463/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_20a29dd4a657f1e73c20783907bc2f0c1c47e45c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/9cc67ac5ea03007436c28340307a21ec263df5b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_e3c87cd84983337b095b2851fc627dd1c9327b44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8abe6dd57a7d9aeb06ead4da235bc3da8d60efab">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d9b36311de3f85b05a9fb7e75fc254f9a362ef6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/d11a237e527c98d98a0e7b7d2494026fa9dd0fb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_9539b98fbe21fc75f379a577ca8c679051eb6313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/45494616eebf6c8db7aa1d023a753f93284f0437/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_d329c98c985198659c365e0c1ca0198d1bc65763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/66ba0dce9776925ec28cbadc2c2d7f2ccc0a4620/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_fa1bfde83365d3cab5bc4bd39ddebb4c8d6425ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/4312fd4e3c45e51b0d566cc4157cf012190d7b74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_5753d0952afe2edbf4204e3a5232bea9604b49ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/8ce27d749edb56a0647ee214faf3f4b98c2ef268/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes_a432abe2bda32fa88319145148bcee1200a4c736.jar" />
+    </item>
+
+</items>

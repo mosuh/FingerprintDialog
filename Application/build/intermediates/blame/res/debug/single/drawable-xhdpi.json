@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_fp_40px.png",
+        "source": "/Users/apple/Downloads/FingerprintDialog/Application/src/main/res/drawable-xhdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_name.png",
+        "source": "/Users/apple/Downloads/FingerprintDialog/Application/src/main/res/drawable-xhdpi/ic_action_name.png"
+    }
+]

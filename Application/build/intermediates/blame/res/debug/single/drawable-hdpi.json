@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/apple/Downloads/FingerprintDialog/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_name.png",
+        "source": "/Users/apple/Downloads/FingerprintDialog/Application/src/main/res/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_fp_40px.png",
+        "source": "/Users/apple/Downloads/FingerprintDialog/Application/src/main/res/drawable-hdpi/ic_fp_40px.png"
+    }
+]
